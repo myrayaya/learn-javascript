@@ -1,5 +1,9 @@
 # Variables in JavaScript
 
+**NOTE!** : When creating variables, we use camelCase! meaning when declaring a variable with two words, we lowercase the first letter of word 1, and uppercase the first letter of word 2
+
+---
+
 - ``` let ``` is used for variables where the value will change.
 
 How to use ``` let ``` for a variable?
